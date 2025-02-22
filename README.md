@@ -35,7 +35,7 @@ What actionable steps can be taken to reduce friction and improve conversion rat
 
 ### Skills:
 
-SQL: CTEs, CASE statements, subqueries
+SQL: CTEs, CASE statements, subqueries, window functions
 Data Wrangling & Cleaning: Handling missing data, formatting inconsistencies
 Data Visualization: Funnel charts, error distribution plots
 Product Analytics: Understanding user behavior and conversion rates
