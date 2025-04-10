@@ -40,15 +40,12 @@ Data Wrangling & Cleaning: Handling missing data, formatting inconsistencies
 Data Visualization: Funnel charts, error distribution plots
 Product Analytics: Understanding user behavior and conversion rates
 
-
-### Results & Business Recommendation: 
-
-## RESULTS
+### RESULTS
 -subscriptions fail to open the payment portal, indicating a major drop-off at the initial step.
 -users encounter errors when entering payment details, highlighting a need for UX improvements.
 -transactions fail due to vendor processing errors, suggesting potential issues with the payment provider.
 
-## Business Recommendations
+### Business Recommendations
 
 1. Reduce friction at the payment entry point:
 -Implement one-click payment options (Apple Pay, Google Pay, PayPal) to streamline the process.
