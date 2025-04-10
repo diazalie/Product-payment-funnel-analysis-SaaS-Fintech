@@ -9,11 +9,13 @@ A significant number of customers sign up for a subscription but fail to complet
 
 The finance team has raised concerns about an increasing number of unpaid subscriptions. While customers opt into a plan, they fail to complete the payment process, negatively impacting the company’s revenue. To address this, we need to analyze the payment funnel and determine where users drop off, identify common errors, and propose solutions to enhance the payment experience and increase successful transactions.
 
-Key Business Questions
-At which stage of the payment funnel do customers drop off the most?
-What are the most common errors preventing successful payments?
-How do user errors (e.g., incorrect payment details) compare to vendor errors (e.g., processing failures)?
-What actionable steps can be taken to reduce friction and improve conversion rates?
+![Image](https://github.com/user-attachments/assets/0d55c6a6-962f-41cb-ad5a-860185c773ff)
+
+Key Business Questions <br> 
+At which stage of the payment funnel do customers drop off the most? <br>
+What are the most common errors preventing successful payments? <br>
+How do user errors (e.g., incorrect payment details) compare to vendor errors (e.g., processing failures)? <br>
+What actionable steps can be taken to reduce friction and improve conversion rates? <br>
 
 ### Methodology: 
 
